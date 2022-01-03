@@ -38,12 +38,15 @@ Julho
 -07/07 Bento
 -13/07 João Antonio
 -17/07 Anna Paula
+Agosto
+-22/08 Domilton 
+Setembro
+-02/09 Elpidia
 Outubro
 -08/10 Dhyenifer
 -26/10 Louise
-Setembro
--02/09 Elpidia
-Novembro 
+Novembro
+-08/11 Valmir 
 -16/11 Natan 
 -20/11 Conceição 
 Dezembro
