@@ -1,7 +1,4 @@
-# listaAniversario
-lista aniversario
-
-lista de aniversários
+# lista aniversarios
 
 Janeiro
 -01/01 Jovelina
